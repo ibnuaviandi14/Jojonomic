@@ -1,5 +1,12 @@
 #UI AUTOMATION
 
+#CYPRESS CODING
+Design the coding using cypress to perform web automation
+
+#FIXTURE
+To change the location and the service center for the data driven where we can search the location and the service center as we want
+
+
 #Steps
 1. Check the conformance of the mainpage
 
@@ -10,8 +17,8 @@
   c. Check the search icon is available
 
   d. Check the text on the page should contain certain text
-
-
+  
+  
   
 2. Search for "Apply for a number plate" 
 
@@ -22,8 +29,8 @@
   c. Search the keyword
 
   d. Check the page is correct or not after searched the keyword
-
-
+  
+  
 
 3. Trying to find Marrickville Service Centre
 
@@ -39,8 +46,4 @@
 
 
 
-#CYPRESS CODING
-Design the coding using cypress to perform web automation
 
-#FIXTURE
-To change the location and the service center for the data driven where we can search the location and the service center as we want
