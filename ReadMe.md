@@ -1,13 +1,15 @@
 #UI AUTOMATION
 
 #CYPRESS CODING
+
 Design the coding using cypress to perform web automation
 
 #FIXTURE
+
 To change the location and the service center for the data driven where we can search the location and the service center as we want
 
 
-#Steps
+#STEPS
 1. Check the conformance of the mainpage
 
   a. Check the url is correct
