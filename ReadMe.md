@@ -36,3 +36,11 @@
   d. Enter the keyword "Sydney 2000' and then click it
 
   e. Check the result contain 'Marrickville Service Center'
+
+
+
+#CYPRESS CODING
+Design the coding using cypress to perform web automation
+
+#FIXTURE
+To change the location and the service center for the data driven where we can search the location and the service center as we want
