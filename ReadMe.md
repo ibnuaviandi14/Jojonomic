@@ -4,9 +4,9 @@
 
 Design the coding using cypress to perform web automation
 
-#FIXTURE
+#DATA
 
-To change the location and the service center for the data driven where we can search the location and the service center as we want
+Is the fixture of cypress to change the location and the service center for the data driven where we can search the location and the service center as we want
 
 
 #STEPS
